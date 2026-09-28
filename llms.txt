@@ -4,7 +4,7 @@
 
 ## Design tools and services
 
-- [LastingLine](https://lastingline.com): Tattoo designs from your idea: choose a style and a placement, pay once for the design and the files for your artist. (paid) (made by the author)
+- [LastingLine](https://lastingline.com): Tattoo designs from your idea: choose a style and a placement, pay once for the design and the files for your artist. (paid)
 - [TattoosAI](https://www.tattoosai.com): AI tattoo generator that draws a design from a written description. (freemium)
 - [Fotor AI Tattoo Generator](https://www.fotor.com/features/ai-tattoo-generator/): AI tattoo generator in the browser, with a preview on the body. (freemium)
 - [Photoleap AI Tattoo Generator](https://www.photoleapapp.com/features/ai-tattoo-generator): AI tattoo generator in the Photoleap app, including ambigrams. (freemium)
@@ -18,7 +18,7 @@
 
 ## Stencils
 
-- [LastingLine Tattoo Stencil Maker](https://lastingline.com/tattoo-stencil-maker): Turns a design or drawing into a stencil outline in the browser; the image never leaves your device. (made by the author)
+- [LastingLine Tattoo Stencil Maker](https://lastingline.com/tattoo-stencil-maker): Turns a design or drawing into a stencil outline in the browser; the image never leaves your device.
 - [FreeStencilMaker](https://freestencilmaker.com): Turns a photo into a multi-layer stencil; exports SVG, PDF or DXF.
 
 ## Lettering
