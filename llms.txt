@@ -72,3 +72,5 @@
 - [The Tattoo Archive](https://www.tattooarchive.com): Hundreds of articles on tattoo history.
 - [Lyle Tuttle Tattoo Collection](https://lyletuttlecollection.com): The tattoo collection of the tattooist Lyle Tuttle.
 - [Wikimedia Commons — Tattoo designs](https://commons.wikimedia.org/wiki/Category:Tattoo_designs): Openly licensed images of tattoo designs.
+
+The maintainer also builds some of the tools listed.

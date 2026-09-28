@@ -92,6 +92,8 @@ Suggestions are welcome as pull requests or issues: one entry per change, a work
 
 Links last checked 2026-09-29.
 
+The maintainer also builds some of the tools listed.
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
