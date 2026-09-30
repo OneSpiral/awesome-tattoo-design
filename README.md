@@ -17,12 +17,14 @@
 
 ## Design tools and services
 
-- [LastingLine](https://lastingline.com) - Tattoo designs from your idea: choose a style and a placement, pay once for the design and the files for your artist. (paid)
+- [LastingLine](https://lastingline.com) - Custom designs for birth flowers, names and memorials: pay once for three versions, names spelled exactly as typed, a stencil outline and a real-size print sheet for your artist. (paid)
 - [TattoosAI](https://www.tattoosai.com) - AI tattoo generator that draws a design from a written description. (freemium)
 - [Fotor AI Tattoo Generator](https://www.fotor.com/features/ai-tattoo-generator/) - AI tattoo generator in the browser, with a preview on the body. (freemium)
 - [Photoleap AI Tattoo Generator](https://www.photoleapapp.com/features/ai-tattoo-generator) - AI tattoo generator in the Photoleap app, including ambigrams. (freemium)
 - [Tat.ink](https://tat.ink) - AI tattoo design platform for creating and exploring custom designs. (freemium)
 - [Custom Tattoo Design](https://customtattoodesign.ca/) - Custom tattoo designs drawn by a team of designers. (paid)
+- [Tattfly Birth Flower Tattoo Generator](https://tattfly.com/birth-flower-tattoo-generator) - Birth flower tattoo generator for single stems or family bouquets, with no sign-up.
+- [AI for Tattoo](https://www.aifortattoo.com) - AI tattoo generator with a virtual try-on and a free plan. (freemium)
 
 ## Drawing apps
 
@@ -90,7 +92,7 @@
 
 Suggestions are welcome as pull requests or issues: one entry per change, a working link, and a one-line factual description.
 
-Links last checked 2026-09-29.
+Links last checked 2026-09-30.
 
 The maintainer also builds some of the tools listed.
 
