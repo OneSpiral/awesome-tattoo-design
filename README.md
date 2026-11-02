@@ -26,6 +26,8 @@
 - [Tattfly Birth Flower Tattoo Generator](https://tattfly.com/birth-flower-tattoo-generator) - Birth flower tattoo generator for single stems or family bouquets, with no sign-up.
 - [AI for Tattoo](https://www.aifortattoo.com) - AI tattoo generator with a virtual try-on and a free plan. (freemium)
 
+- [InkPreview](https://inkpreview.co) - AI tattoo generator with on-skin preview: test designs on your own photo before committing, with free stencil export for your artist. (free)
+
 ## Drawing apps
 
 - [Procreate](https://procreate.com) - iPad drawing and animation app, paid once with no subscription. (paid)
