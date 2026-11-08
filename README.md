@@ -47,6 +47,7 @@
 - [Pirata One](https://fonts.google.com/specimen/Pirata+One) - Condensed gothic textura (Google Fonts).
 - [UnifrakturMaguntia](https://fonts.google.com/specimen/UnifrakturMaguntia) - Fraktur based on a 1901 typeface by Carl Albert Fahrenwaldt (Google Fonts).
 - [The League of Moveable Type](https://www.theleagueofmoveabletype.com) - Open-source type foundry.
+- [Cursive Generation](https://cursive-generation.com/cursive-generator) - Free browser tool for previewing text in cursive fonts; copying retains plain text.
 
 ## Flower meanings and symbols
 
